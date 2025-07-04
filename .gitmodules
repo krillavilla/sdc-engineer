@@ -1,3 +1,9 @@
 [submodule "object-detection-in-urban-environment"]
 	path = object-detection-in-urban-environment
 	url = https://github.com/krillavilla/object-detection-in-urban-environment.git
+[submodule "fusion-starter"]
+	path = fusion-starter
+	url = https://github.com/krillavilla/fusion-starter.git
+[submodule "cd2688-object-detection-in-urban-environment-project"]
+	path = cd2688-object-detection-in-urban-environment-project
+	url = https://github.com/udacity/cd2688-object-detection-in-urban-environment-project.git
